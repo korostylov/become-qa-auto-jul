@@ -1,4 +1,5 @@
 .vscode/
+test_env/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -28,6 +29,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+Pipfile
+Pipfile.lock
+package-lock.json
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
